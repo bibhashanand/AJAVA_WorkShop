@@ -1,4 +1,4 @@
-# Advance Java Workshop Repo
+# Advance Java Workshop Repository
 
 - By : Bibhash Anand
 - Student Btech CSE in Data Science 2020-24
